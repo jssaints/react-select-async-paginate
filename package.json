@@ -3,7 +3,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "repository": "git@github.com:vtaits/react-select-async-paginate.git",
+  "repository": "git@github.com:jssaints/react-select-async-paginate.git",
   "author": "Vadim Taits",
   "license": "MIT",
   "scripts": {
