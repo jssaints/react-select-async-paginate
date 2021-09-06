@@ -17,8 +17,8 @@
     "pagination",
     "fetch"
   ],
-  "repository": "git@github.com:vtaits/react-select-async-paginate.git",
-  "homepage": "https://github.com/vtaits/react-select-async-paginate/tree/master/packages/react-select-fetch",
+  "repository": "git@github.com:jssaints/react-select-async-paginate.git",
+  "homepage": "https://github.com/jssaints/react-select-async-paginate/tree/master/packages/react-select-fetch",
   "author": "Vadim Taits",
   "license": "MIT",
   "scripts": {
